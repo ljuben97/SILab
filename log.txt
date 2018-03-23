@@ -1,0 +1,9 @@
+commit d6da16a8122ea47d09bbb23166737ac6ce351bbf (HEAD -> logging, origin/master, master)
+Author: unknown <mitrevski.blagoj@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:04:46 2018 +0100
+
+    modify l1.txt
+
+commit cc50d8054e58a2c9a399a6cb62112d31919dbe8b
+Author: unknown <mitrevski.blagoj@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:03:16 2018 +0100
