@@ -1,0 +1,27 @@
+git config --global user.name "Ljuben Angelkoski"
+git config --global user.email "ljuben_angelkoski@live.com"
+cd lab1
+git init
+git status
+git add .
+git commit -m "Initial commit"
+git add .
+git commit -m "modify l1.txt"
+git remote add origin https://github.com/ljuben97/SILab.git
+git push -u origin master
+git log
+git reset --hard  d6da16a8122ea47d09bbb23166737ac6ce351bbf
+git branch logging
+git checkout logging
+git log
+git status
+git add .
+git commit -m "Created new file log.txt and addes some information!"
+git push -u origin logging
+git checkout master
+git merge logging
+git add .
+git commit -m "Merged with logging branch!"
+git push
+git branch allcomands
+
